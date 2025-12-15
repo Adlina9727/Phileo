@@ -3,6 +3,11 @@ def greet():
     
 def testing():
     print("Hooo")
+
+def sum(a,d):
+    return a+d
     
 greet()
 testing()
+testing1= sum(10,10)
+print(testing1)
